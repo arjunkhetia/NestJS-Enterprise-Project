@@ -1,9 +1,9 @@
 {
   "name": "nestjs-enterprise-project",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
+  "version": "1.0.0",
+  "description": "NestJS Enterprise Server Template",
+  "author": "Arjun Khetia",
+  "private": false,
   "license": "UNLICENSED",
   "scripts": {
     "build": "nest build",
