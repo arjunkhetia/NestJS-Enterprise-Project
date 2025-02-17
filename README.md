@@ -10,6 +10,11 @@
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
   <p align="center">
     <img src="https://img.shields.io/badge/Linux-passing-brightgreen.svg" alt="Linux Build Image" />
+    <img src="https://img.shields.io/badge/Windows-passing-brightgreen.svg" alt="Windows Build Image" />
+    <img src="https://img.shields.io/badge/nsp-no_known_vulns-blue.svg" alt="NSP Status" />
+    <img src="https://img.shields.io/coveralls/expressjs/express/master.svg" alt="Code Coverage" />
+    <img src="https://img.shields.io/badge/dependencies-up_to_date-brightgreen.svg" alt="Dependency" />
+    <img src="https://img.shields.io/badge/devdependencies-up_to_date-yellow.svg" alt="Dev Dependency" />
   </p>
 
 ## Description
@@ -90,8 +95,3 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
 
 [version-image]: https://img.shields.io/badge/Version-1.0.0-orange.svg
-[windowsbuild-image]: https://img.shields.io/badge/Windows-passing-brightgreen.svg
-[nspstatus-image]: https://img.shields.io/badge/nsp-no_known_vulns-blue.svg
-[coverage-image]: https://img.shields.io/coveralls/expressjs/express/master.svg
-[dependency-image]: https://img.shields.io/badge/dependencies-up_to_date-brightgreen.svg
-[devdependency-image]: https://img.shields.io/badge/devdependencies-up_to_date-yellow.svg
