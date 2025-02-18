@@ -24,7 +24,6 @@
     "@nestjs/config": "^4.0.0",
     "@nestjs/core": "^11.0.1",
     "@nestjs/platform-express": "^11.0.1",
-    "dotenv": "^16.4.7",
     "express-handlebars": "^8.0.1",
     "hbs": "^4.2.0",
     "reflect-metadata": "^0.2.2",
