@@ -12,7 +12,8 @@ export class AppService {
     logger.silly('AppService initialized');
     logger.http('AppService initialized');
   }
-  getHello(): string {
-    return 'Hello World!';
+  getHello() {
+    // return 'Hello World!';
+    return { title: 'Home Page', name: 'NestJS Developer' };
   }
 }
